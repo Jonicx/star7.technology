@@ -1,0 +1,8 @@
+{
+  "name": "Star 7 Technology",
+  "description": "Star 7 Technology website",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
